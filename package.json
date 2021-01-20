@@ -1,0 +1,30 @@
+{
+  "name": "@weekwood/npx_card",
+  "version": "1.0.1",
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weekwood/npx_card.git"
+  },
+  "homepage": "https://github.com/weekwood/npx_card#readme",
+  "bin": {
+    "npx_card": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/weekwood/npx_card/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
